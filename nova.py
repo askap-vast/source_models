@@ -22,7 +22,6 @@ Example:
 from astropy import units as u, constants as c
 import numpy as np
 from astropy.modeling import models
-import matplotlib.pyplot as plt
 
 nu0 = c.c * c.Ryd
 # constant out in front of emissivity
